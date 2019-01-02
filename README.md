@@ -11,6 +11,11 @@ Here a list of available minigames.
 These minigames can be played with your dice and won't require specific resources or tools.
 
 #### Fishing
+Fishing is a relaxing activity based on patience and swiftness.
+In order to represent this with dice, we need some mechanics that comprehends an "idle" part (patience) and a "evaluation" part (swiftness).
+To do so, we could set a threshold and play something like a blackjack game against that threshold: the fishing player keeps rolling the die until the sum of all the rolls "bust" the threshold or the player feels the risk of busting is too high and decides to reel the rod in.
+More details here...
+
 #### Looking for herbs and shrooms
 #### Brewing potions
 #### Bargain prices
