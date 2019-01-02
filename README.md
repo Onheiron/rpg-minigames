@@ -15,7 +15,6 @@ There will be a bunch of different minigame tipes:
 ## Index of Minigames
 
   __1. Dice Only__
-  
-    1. Brewing potions
-    2. Picking plants and mushrooms
-    3. Fishing
+  ..1. Brewing potions
+  ..2. Picking plants and mushrooms
+  ..3. Fishing
