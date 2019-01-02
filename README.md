@@ -12,17 +12,12 @@ There will be a bunch of different minigame tipes:
     # map minigames: these minigames will generate a map and it's better if you print it (A3 format is the most suited) and place it on your table for everyone to see. If you have miniatures cells should be large enough to fit an average miniature on them.
     # misc minigames: these minigames will feature different formats (tables, print and cut etc.) and the required tools will be listed in the minigame description.
 
-## Index of Minigames
+## Minigames Index
+Here a list of available minigames.
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+### Dice Only
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+  1. Fishing
+  2. Looking for herbs and shrooms
+  3. Brewing potions
+  4. Bargain prices
