@@ -17,8 +17,18 @@ To do so, we could set a threshold and play something like a blackjack game agai
 More details here...
 
 #### Looking for herbs and shrooms
+When your players walk in the forest they might look for some herbs, mushrooms or some other ingredient.
+Looking for stuff in the forest is a task of patience and keen eye in order to detect possible rarities from afar.
+In order to represent this with dice, we need some mechanics that comprehends a "skimming" part (keen eye) and a "inspection" part (patience).
+To do so, we could roll a huge amount of dice and then have the players evaluate which dice to furtherly "inspect".
+Each player picks a die to "inspect" (something that might seem from the distance like the thing that you're looking for) and "get closer" by re-rolling it.
+The second roll gives out the result of the inspection and tell the player what actual herb or mushroom or ingredient it was.
+More details here...
+
 #### Brewing potions
+Coming soon
 #### Bargain prices
+Coming soon
 
 ### Puzzle
 These minigames can be solved direclty on your computer or printed and solved with pen & paper.
