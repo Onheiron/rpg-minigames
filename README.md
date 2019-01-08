@@ -33,6 +33,17 @@ Coming soon
 ### Puzzle
 These minigames can be solved direclty on your computer or printed and solved with pen & paper.
 
+#### Encrypted Messages
+You can create an encrypted a hint or some funny message for your players to decipher.
+Encryption levels may vary from mere missing letters, to complete re-mapping of the alphabet to a different set of symbols.
+See here for my online encrypter!
+
+#### Loot Picking
+When your players find some big loot, it might be fun to add a little NP-hardness to their choices by simulating a knapsack problem where each player has a limited weight he can carry and must make the most profit out of a collection of items with different weights and values.
+See here for my random loot generator!
+
+#### 
+
 ### Map
 These minigames will generate a map and it's better if you print it (A3 format is the most suited) and place it on your table for everyone to see. If you have miniatures cells should be large enough to fit an average miniature on them.
 
